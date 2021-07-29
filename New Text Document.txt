@@ -1,0 +1,4 @@
+9835ae8e86e05986dab953f0b3f3d550
+
+
+api.openweathermap.org/data/2.5/weather?q=dhaka&appid=9835ae8e86e05986dab953f0b3f3d550 
